@@ -26,5 +26,6 @@ public class IpToBinaryNotation {
         }
         System.out.println("Converted Binary string: ");
         System.out.println(str);
+        sc.close();
     }
 }
